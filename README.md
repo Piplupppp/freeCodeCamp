@@ -4,7 +4,6 @@ Welcome to my **freeCodeCamp** projects repository! This space gathers the solut
 
 To keep the code clean and modular, the repository is organized into subfolders, each with its own specific documentation.
 
----
 
 ## Repository Structure
 
@@ -20,7 +19,6 @@ A suite of five small interactive programs written entirely in Bash Scripting (L
 * **What's inside:** Four independent scripts (`questionnaire.sh`, `countdown.sh`, `bingo.sh`, `fortune.sh`) coordinated and executed in sequence by a single central master script (`five.sh`).
 * **Skills:** Bash scripting, Linux terminal automation, file permissions, control flow, and environment variables.
 
----
 
 ## Technologies Used
 
@@ -28,8 +26,7 @@ A suite of five small interactive programs written entirely in Bash Scripting (L
 * **Database:** PostgreSQL / SQL
 * **Version Control:** Git & GitHub
 
----
 
-## 🚀 How to Explore the Projects
+## How to Explore the Projects
 
 You can navigate through the individual folders by clicking on the links above or directly from the GitHub file list. Inside each subfolder, you will find a dedicated `README.md` file explaining in detail how to run the scripts or how to import the database.
