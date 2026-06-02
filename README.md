@@ -19,6 +19,14 @@ A suite of five small interactive programs written entirely in Bash Scripting (L
 * **What's inside:** Four independent scripts (`questionnaire.sh`, `countdown.sh`, `bingo.sh`, `fortune.sh`) coordinated and executed in sequence by a single central master script (`five.sh`).
 * **Skills:** Bash scripting, Linux terminal automation, file permissions, control flow, and environment variables.
 
+### 3. Student Database
+A project demonstrating the integration between Bash scripting and PostgreSQL to automate database creation, data insertion from CSV files, and advanced data extraction.
+* **What's inside:** * `structure.sql`: Script to create the database schema and table relationships.
+  * `courses.csv` & `students.csv`: The raw datasets.
+  * `insert_data.sh`: A Bash script that reads the CSVs, handles duplicates and null values, and populates the tables.
+  * `student_info.sh`: A Bash script executing advanced SQL queries (JOINs, aggregations, subqueries) to extract insights from the database.
+* **Skills:** SQL (JOINs, Grouping, Aggregations), Bash scripting (file reading, while loops, conditionals), PostgreSQL, Data Migration.
+
 
 ## Technologies Used
 
